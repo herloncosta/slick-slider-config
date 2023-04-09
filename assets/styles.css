@@ -41,7 +41,8 @@
 }
 
 .slide .slick-prev::before {
-    content: "{";
+    font-family: "Font Awesome";
+    content: \f177;
 }
 
 .slide .slick-next {
@@ -52,7 +53,8 @@
 }
 
 .slide .slick-next::before {
-    content: "}";
+    font-family: "Font Awesome";
+    content: \f0a9;
 }
 
 .slick-dots {
